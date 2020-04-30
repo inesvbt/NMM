@@ -1,0 +1,11 @@
+
+body
+{
+    background-image: url("golden.jpg");
+}
+
+img
+{
+    background-attachment: : fixed;
+    opacity: 0.5;
+}
